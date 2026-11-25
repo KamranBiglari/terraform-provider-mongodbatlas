@@ -117,7 +117,7 @@ require (
 	github.com/spf13/afero v1.9.2 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/trivago/tgo v1.0.7 // indirect
-	github.com/ulikunitz/xz v0.5.10 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
@@ -148,7 +148,6 @@ require (
 	google.golang.org/grpc v1.66.2 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-
 )
 
 exclude github.com/denis-tingajkin/go-header v0.4.2
